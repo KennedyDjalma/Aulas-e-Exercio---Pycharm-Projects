@@ -1,2 +1,2 @@
 # Pycharm-Projects
-Aulas e Treinos de Python
+Aulas e Exercícios de Python
